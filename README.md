@@ -14,7 +14,7 @@ Brittany Butchkoski
 
 Part 3 Summary Analysis: 
 Kevin Shaw
-	As it appears in the data the amount of employees that traveled rarely was far greater than the amount of employees that traveled frequently or not at all. Therefore, I believe that the employees were either on one end of the spectrum or the other, but not in between. By this I mean that when these employees were looking for jobs they either wanted to be on the road frequently or they wanted to stay put where they were but the employees that were mostly on the job site but had to travel for some reason seamed unhappy which pushed them out the door. 
+	As it appears in the data the amount of employees that traveled rarely was far greater than the amount of employees that traveled frequently or not at all. Therfore, what I gather is that most people wanted to be on site for the most part but wanteda change in scenery from time to time. I found this interesting because, it indicates that the employees that were traveling frequently or not at all were unhappy with their jobs and were seeking something a tad more stable but that wasn't completely without travel.  
 
 Sources for code and analysis:
 Geeksforgeeks.com
